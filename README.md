@@ -1,6 +1,9 @@
-# NeetCode
+# NeetCode https://neetcode.io/
 Completed in Javascript
 
 ## Implement Data Structures
-[x] 1. Design Dynamic Array (Resizeable Array)
-[x] 2. Design Singly Linked List
+- [x] 1. Design Dynamic Array (Resizeable Array)
+- [x] 2. Design Singly Linked List
+
+## Sorting
+- [x] 1. Insertion Sort
