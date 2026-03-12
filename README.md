@@ -7,3 +7,6 @@ Completed in Javascript
 
 ## Sorting
 - [x] 1. Insertion Sort
+
+## Design Patterns
+- [x] 1. Factory Method Pattern
