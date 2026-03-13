@@ -8,5 +8,8 @@ Completed in Javascript
 ## Sorting
 - [x] 1. Insertion Sort
 
+## Graphs
+- [x] 3. Dijkstra's Algorithm
+
 ## Design Patterns
 - [x] 1. Factory Method Pattern
