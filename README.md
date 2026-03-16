@@ -13,3 +13,4 @@ Completed in Javascript
 
 ## Design Patterns
 - [x] 1. Factory Method Pattern
+- [x] 4. Prototype Pattern
