@@ -15,3 +15,6 @@ Completed in Javascript
 - [x] 1. Factory Method Pattern
 - [x] 4. Prototype Pattern
 - [x] 5. Adapter Pattern
+
+## SQL
+- [x] 1. Customers with Positive Revenue
