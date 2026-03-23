@@ -17,4 +17,5 @@ Completed in Javascript
 - [x] 5. Adapter Pattern
 
 ## SQL
-- [x] 1. Customers with Positive Revenue
+- [x] 1. Customers With Positive Revenue
+- [x] 2. Customers Without Orders
