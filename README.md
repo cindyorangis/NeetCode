@@ -19,3 +19,4 @@ Completed in Javascript
 ## SQL
 - [x] 1. Customers With Positive Revenue
 - [x] 2. Customers Without Orders
+- [x] 3. Calculate Special Bonus
