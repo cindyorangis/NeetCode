@@ -20,3 +20,4 @@ Completed in Javascript
 - [x] 1. Customers With Positive Revenue
 - [x] 2. Customers Without Orders
 - [x] 3. Calculate Special Bonus
+- [x] 4. Customers Who Bought A and B but not C
