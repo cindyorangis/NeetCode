@@ -21,3 +21,4 @@ Completed in Javascript
 - [x] 2. Customers Without Orders
 - [x] 3. Calculate Special Bonus
 - [x] 4. Customers Who Bought A and B but not C
+- [x] 5. Highest Grade For Each Student
