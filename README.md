@@ -23,3 +23,4 @@ Completed in Javascript
 - [x] 4. Customers Who Bought A and B but not C
 - [x] 5. Highest Grade For Each Student
 - [x] 6. Combine Two Tables
+- [x] 7. Sellers With No Sales
