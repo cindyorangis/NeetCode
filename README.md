@@ -25,3 +25,4 @@ Completed in Javascript
 - [x] 6. Combine Two Tables
 - [x] 7. Sellers With No Sales
 - [x] 8. Top Travellers
+- [x] 9. Sales Person
