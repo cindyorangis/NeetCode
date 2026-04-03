@@ -26,3 +26,4 @@ Completed in Javascript
 - [x] 7. Sellers With No Sales
 - [x] 8. Top Travellers
 - [x] 9. Sales Person
+- [x] 10. Evaluate Boolean Expression
